@@ -1,0 +1,592 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\GameLogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:GameLogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Dungeon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Dungeon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Dungeon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Dungeon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\GameLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:GameLogic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Sword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Sword.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Weapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Weapon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Character.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Wall.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Wall.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Slingshot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Slingshot.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\MagicWand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:MagicWand.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Knife.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Bomb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Bomb.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Mage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Mage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\EnemyType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:EnemyType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\IDamageable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:IDamageable.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\WeaponType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:WeaponType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Goblin.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Knife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Knife.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\IAttack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:IAttack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Orc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Orc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Orc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Orc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Goblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Goblin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Bomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Bomb.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Sword.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Sword.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\MagicWand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:MagicWand.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Slingshot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2EAFDE49-EBBA-43CC-A3E0-7044241BE885}|ConsoleApplication1.vcxproj|solutionrelative:Slingshot.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T19:57:48.046Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dungeon.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Dungeon.h",
+              "RelativeDocumentMoniker": "Dungeon.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Dungeon.h",
+              "RelativeToolTip": "Dungeon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T20:46:39.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dungeon.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Dungeon.cpp",
+              "RelativeDocumentMoniker": "Dungeon.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Dungeon.cpp",
+              "RelativeToolTip": "Dungeon.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAmwJsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T20:46:32.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameLogic.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\GameLogic.cpp",
+              "RelativeDocumentMoniker": "GameLogic.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\GameLogic.cpp",
+              "RelativeToolTip": "GameLogic.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T20:45:50.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameLogic.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\GameLogic.h",
+              "RelativeDocumentMoniker": "GameLogic.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\GameLogic.h",
+              "RelativeToolTip": "GameLogic.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T20:45:42.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Character.cpp",
+              "RelativeDocumentMoniker": "Character.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Character.cpp",
+              "RelativeToolTip": "Character.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:03:08.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EnemyType.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\EnemyType.h",
+              "RelativeDocumentMoniker": "EnemyType.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\EnemyType.h",
+              "RelativeToolTip": "EnemyType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T20:27:27.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "WeaponType.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\WeaponType.h",
+              "RelativeDocumentMoniker": "WeaponType.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\WeaponType.h",
+              "RelativeToolTip": "WeaponType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T20:26:19.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Player.h",
+              "RelativeDocumentMoniker": "Player.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Player.h",
+              "RelativeToolTip": "Player.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:38:57.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Player.cpp",
+              "RelativeDocumentMoniker": "Player.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Player.cpp",
+              "RelativeToolTip": "Player.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:39:08.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Enemy.cpp",
+              "RelativeDocumentMoniker": "Enemy.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Enemy.cpp",
+              "RelativeToolTip": "Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:39:47.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Enemy.h",
+              "RelativeDocumentMoniker": "Enemy.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Enemy.h",
+              "RelativeToolTip": "Enemy.h",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:39:38.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IDamageable.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\IDamageable.h",
+              "RelativeDocumentMoniker": "IDamageable.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\IDamageable.h",
+              "RelativeToolTip": "IDamageable.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:00:50.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IAttack.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\IAttack.h",
+              "RelativeDocumentMoniker": "IAttack.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\IAttack.h",
+              "RelativeToolTip": "IAttack.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T19:48:31.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bomb.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Bomb.cpp",
+              "RelativeDocumentMoniker": "Bomb.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Bomb.cpp",
+              "RelativeToolTip": "Bomb.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:17:06.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Bomb.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Bomb.h",
+              "RelativeDocumentMoniker": "Bomb.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Bomb.h",
+              "RelativeToolTip": "Bomb.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:16:56.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Knife.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Knife.cpp",
+              "RelativeDocumentMoniker": "Knife.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Knife.cpp",
+              "RelativeToolTip": "Knife.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:13:42.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Sword.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Sword.h",
+              "RelativeDocumentMoniker": "Sword.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Sword.h",
+              "RelativeToolTip": "Sword.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:16:19.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Character.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Character.h",
+              "RelativeDocumentMoniker": "Character.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Character.h",
+              "RelativeToolTip": "Character.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T19:56:01.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Mage.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Mage.h",
+              "RelativeDocumentMoniker": "Mage.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Mage.h",
+              "RelativeToolTip": "Mage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:40:44.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Mage.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Mage.cpp",
+              "RelativeDocumentMoniker": "Mage.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Mage.cpp",
+              "RelativeToolTip": "Mage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:40:53.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Goblin.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Goblin.h",
+              "RelativeDocumentMoniker": "Goblin.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Goblin.h",
+              "RelativeToolTip": "Goblin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:40:22.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Goblin.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Goblin.cpp",
+              "RelativeDocumentMoniker": "Goblin.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Goblin.cpp",
+              "RelativeToolTip": "Goblin.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:40:31.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Orc.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Orc.cpp",
+              "RelativeDocumentMoniker": "Orc.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Orc.cpp",
+              "RelativeToolTip": "Orc.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:40:06.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Orc.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Orc.h",
+              "RelativeDocumentMoniker": "Orc.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Orc.h",
+              "RelativeToolTip": "Orc.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:39:58.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Knife.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Knife.h",
+              "RelativeDocumentMoniker": "Knife.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Knife.h",
+              "RelativeToolTip": "Knife.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T19:52:34.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MagicWand.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\MagicWand.cpp",
+              "RelativeDocumentMoniker": "MagicWand.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\MagicWand.cpp",
+              "RelativeToolTip": "MagicWand.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:19:20.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "MagicWand.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\MagicWand.h",
+              "RelativeDocumentMoniker": "MagicWand.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\MagicWand.h",
+              "RelativeToolTip": "MagicWand.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:19:12.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Slingshot.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Slingshot.cpp",
+              "RelativeDocumentMoniker": "Slingshot.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Slingshot.cpp",
+              "RelativeToolTip": "Slingshot.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:18:47.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Slingshot.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Slingshot.h",
+              "RelativeDocumentMoniker": "Slingshot.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Slingshot.h",
+              "RelativeToolTip": "Slingshot.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:18:58.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sword.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Sword.cpp",
+              "RelativeDocumentMoniker": "Sword.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Sword.cpp",
+              "RelativeToolTip": "Sword.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:16:28.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Weapon.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Weapon.cpp",
+              "RelativeDocumentMoniker": "Weapon.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Weapon.cpp",
+              "RelativeToolTip": "Weapon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T21:03:35.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Weapon.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Weapon.h",
+              "RelativeDocumentMoniker": "Weapon.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Weapon.h",
+              "RelativeToolTip": "Weapon.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T19:50:10.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Wall.cpp",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Wall.cpp",
+              "RelativeDocumentMoniker": "Wall.cpp",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Wall.cpp",
+              "RelativeToolTip": "Wall.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T20:35:42.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Wall.h",
+              "DocumentMoniker": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Wall.h",
+              "RelativeDocumentMoniker": "Wall.h",
+              "ToolTip": "C:\\Users\\loulo\\OneDrive\\Bureau\\ProjetC-\\ConsoleApplication1\\Wall.h",
+              "RelativeToolTip": "Wall.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T20:12:06.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

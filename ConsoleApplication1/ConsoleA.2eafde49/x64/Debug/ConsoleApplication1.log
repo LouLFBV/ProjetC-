@@ -1,0 +1,14 @@
+﻿  Dungeon.cpp
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(92,62): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(92,62): warning C4267:         with
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(92,62): warning C4267:         [
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(92,62): warning C4267:             _Ty=int
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(92,62): warning C4267:         ]
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(138,70): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(138,70): warning C4267:         with
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(138,70): warning C4267:         [
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(138,70): warning C4267:             _Ty=int
+C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\Dungeon.cpp(138,70): warning C4267:         ]
+  GameLogic.cpp
+  Génération de code en cours...
+  ConsoleApplication1.vcxproj -> C:\Users\loulo\OneDrive\Bureau\ProjetC-\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
