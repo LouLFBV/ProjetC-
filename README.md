@@ -48,7 +48,7 @@ Le code est séparé en plusieurs fichiers :
 - Un environnement de développement (VS Code, Visual Studio, CLion) ou un terminal.
 
 ### Compilation
-Utilisez la commande suivante dans votre terminal (en incluant tous les fichiers `.cpp`) :
+Utilisez la commande suivante dans votre terminal en étant dans le dossier `/ConsoleAppliation1` (en incluant tous les fichiers `.cpp`) :
 ```bash
 g++ -o dungeon_game *.cpp
 ```
